@@ -1,4 +1,13 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
 
 <h1>Ingenieria Sanitaria</h1>
 
