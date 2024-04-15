@@ -64,8 +64,10 @@ municipales (Plan Nacional de Saneamiento 2022-2026).</p>
 <ul>
 <a href= "https://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0717-71942021000100185">El hoy de la Ingenieria</a>
 </ul>
+<ol>
 <img src="https://estudiaperu.pe/wp-content/uploads/2019/10/Estudiar-Ingenier%C3%ADa-Sanitaria-300x201.jpg" width="200" height="200">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Uni-logo_transparente_granate.png" width="200" height="200">
 <img src="https://acreditacion.uni.edu.pe/wp-content/uploads/2024/01/S3-1-1536x864.jpg" width="180" height="200">
+</ol>
 </body>
 </html>
